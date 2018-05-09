@@ -7,6 +7,8 @@ My research activity concentrates on developing **reduced-order models** for the
 In February 2017, I received my PhD in Mathematical Models and Methods in Engineering from Politecnico di Milano University, under the supervision of Prof. Alfio Quarteroni. My thesis, entitled [Reduced-order models for inverse problems and uncertainty quantification in cardiac electrophysiology](https://www.politesi.polimi.it/bitstream/10589/131411/1/2017_02_PhD_Pagani.pdf), regards the development of reduced-order models for the efficient and accurate solution of uncertainty quantification and inverse problems arising in cardiac electrophysiology. From 2017 to April 2018, I was a post-doctoral researcher at [École polytechnique fédérale de Lausanne](https://www.epfl.ch).
 
 
+
+
 # News
 
 * I will be giving a talk at the 13th [World Congress in Computational Mechanics](http://www.wccm2018.org) in New York, New York July 23–27, 2018.
