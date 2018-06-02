@@ -20,3 +20,7 @@ In February 2017, I received my PhD in Mathematical Models and Methods in Engine
 * I gave a talk entitled [Reduced-order models for uncertainty quantification and parameter estimation in cardiac models](https://drive.google.com/file/d/0B1cHhhg2HlVbdkthZGxwOVVHeTQ/view) at the [ECCOMAS Young Investigators Conference](https://www.eko.polimi.it/index.php/YIC2017/conf) in *Milano, Italy September 13–15, 2017*.
 
 * I gave a talk entitled [Error Surrogates for Reduced-Order Models Based on Machine Learning Techniques](http://meetings.siam.org/sess/dsp_talk.cfm?p=81796) at the [SIAM Conference on computational science and engineering](https://www.siam.org/meetings/cse17/) in *Atlanta, Georgia February 27-March 3, 2017*.
+
+# Get in touch
+
+Drop me an e-mail at [stefano.pagani at polimi.it](<stefano.pagani@polimi.it>)
