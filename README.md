@@ -23,4 +23,4 @@ In February 2017, I received my PhD in Mathematical Models and Methods in Engine
 
 # Get in touch
 
-Drop me an e-mail at [stefano.pagani at polimi.it](<stefano.pagani@polimi.it>)
+Drop me an e-mail at [stefano.pagani at polimi.it](mailto:stefano.pagani@polimi.it)
