@@ -11,20 +11,30 @@ Local ROMs enable to better approximated the solution of parametrized (nonlinear
 2. Test case 1D code [**LocalROM**](https://stefanopagani.github.io/LocalROM/)
 3. [**Slides**](/Slides/SlideYIC_opt.pdf) from a part of my talk at IV ECCOMAS YOUNG INVESTIGATOR CONFERENCE - YIC2017 - Politecnico di Milano (Italy)
 
+
+# Inverse (backward UQ) problems
+
+A growing number of applications in computational science and engineering are bringing new challenges dealing with the integration of high-dimensional and complex data (possibly affected by uncertainty) within mathematical models built on partial differential equations.
+Backward uncertainty quantification (UQ) problems involve parameter (and state) estimation and data assimilation in view of both model calibration and personalization. In this context, Bayesian methods provide a rigorous framework for the solution of backward UQ problems: sampling algorithms, such as the Markov chain Monte Carlo (MCMC) or the (ensemble) Kalman filter, enable to estimate the distribution of quantities of interest (model parameters, state of a system) from noisy measurements. Adopting Bayesian methods is much costly compared to deterministic optimization procedure, which however neglect the presence of uncertainties. To apply them to complex full-order models with possibly large parameter space, new efficient reduction methods, combining statistical and numerical tools, have been developed in our works.
+
+
+## Material
+1. [**Paper MCMC**](https://epubs.siam.org/doi/abs/10.1137/140995817)
+
+[**Paper EnKF**](https://epubs.siam.org/doi/abs/10.1137/16M1078598)
+
+
 # Reduced-order model error surrogates
 
 Under construction
 
-# Uncertainty Quantification
+# Forward uncertainty quantification
 
 Under construction
 
-# Inverse problems
+# Sensitivity analysis
 
 Under construction
-
-
-
 
 
 [back](./)

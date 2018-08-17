@@ -10,10 +10,12 @@ In February 2017, I received my PhD in Mathematical Models and Methods in Engine
 
 
 # News
+* I will participate to the [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation) in Lugano, Switzerland September 11–15, 2018.
 
-* I will be giving a talk at the 13th [World Congress in Computational Mechanics](http://www.wccm2018.org) in New York, New York July 23–27, 2018.
 
-* Our accepted paper [Numerical approximation of parametrized problems in cardiac electrophysiology by a local reduced basis method](https://www.sciencedirect.com/science/article/pii/S0045782518303001) is now available online (link to the 1D code and further details in [Projects](/project-page)). 
+* I gave a talk entitled *"Reduced-order modeling for Uncertainty quantification of the Cardiac function"* at the 13th [World Congress in Computational Mechanics](http://www.wccm2018.org) in New York, New York July 23–27, 2018.
+
+* Our accepted paper [Numerical approximation of parametrized problems in cardiac electrophysiology by a local reduced basis method](https://www.sciencedirect.com/science/article/pii/S0045782518303001) is now available online (link to the 1D code and further details in [Projects](/project-page)).
 
 * I gave a talk entitled [Statistical Modeling of ROM State-space Errors by the ROMES Method](http://meetings.siam.org/sess/dsp_talk.cfm?p=90204) at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/meetings/uq18/) in *Orange County, California April 16–19, 2018*.
 
