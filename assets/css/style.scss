@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 header {
-  background: no-repeat center/100% url('https://stefanopagani.github.io/Slides/backgroundSito.png');
+  background: url('https://stefanopagani.github.io/Slides/backgroundSito.png');
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;
+
 }
