@@ -5,12 +5,8 @@
 
 header {
   background: url('https://stefanopagani.github.io/Slides/backgroundSito.png');
-
-  max-height: auto;
-  max-width: 100%;
-
+  background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
-  background-position: 0px 0px;
-  background-size: cover;
+  background-position: center center;
 
 }
