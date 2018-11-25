@@ -1,7 +1,23 @@
 ---
 ---
 
+
+h1 {
+  font-family: 'Helvetica Neue' !important;
+  font-size: 32px !important;
+  letter-spacing: -0.5px !important;
+}
+h2 {
+  font-family: 'Helvetica Neue' !important;
+  font-size: 20px !important;
+  line-height: 1.0 !important;
+}
+
 @import "{{ site.theme }}";
+
+html {
+    font-family: 'Helvetica Neue';
+}
 
 header {
   background: url('https://stefanopagani.github.io/Slides/backgroundSito.png');
@@ -12,7 +28,14 @@ header {
   max-width: 100%;
   -moz-background-size: 150%;
   -o-background-size: 150%;
+  font-family: 'Helvetica Neue' !important;
 }
+
+body {
+  font-family: 'Helvetica Neue';
+}
+
+
 
 
 @font-face {
