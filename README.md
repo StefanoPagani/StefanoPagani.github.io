@@ -10,8 +10,10 @@ In February 2017, I received my PhD in Mathematical Models and Methods in Engine
 
 
 # News
-* I have participated to the [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation) in Lugano, Switzerland September 11–15, 2018.
 
+* Our preprint [Statistical closure modeling for reduced-order models of stationary systems by the ROMES method](https://arxiv.org/pdf/1901.02792.pdf) is now available online (link to the code and further details in [Projects](/project-page)).
+
+* I have participated to the [FoMICS-DADSi Summer School on Data Assimilation](https://www.ics.usi.ch/index.php/news/285-fomics-dadsi-summer-school-on-data-assimilation) in Lugano, Switzerland September 11–15, 2018.
 
 * I gave a talk entitled *"Reduced-order modeling for Uncertainty quantification of the Cardiac function"* at the 13th [World Congress in Computational Mechanics](http://www.wccm2018.org) in New York, New York July 23–27, 2018.
 

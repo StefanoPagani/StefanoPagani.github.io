@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Preprint
+
+1. S. Pagani, A. Manzoni and K. Carlberg. [Statistical closure modeling for reduced-order models of stationary systems by the ROMES method](https://arxiv.org/pdf/1901.02792.pdf), arXiv:1901.02792, 2019.
+
 # Journal
 
 1. S. Pagani, A. Manzoni and A. Quarteroni. [Numerical approximation of parametrized problems in cardiac electrophysiology by a local reduced basis method](https://www.sciencedirect.com/science/article/pii/S0045782518303001). CMAME, 340, 530-558, 2018.
